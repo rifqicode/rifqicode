@@ -5,7 +5,10 @@
 </div>
 <br>
 
-Hello my name is rifqi, love explore something new
+<div align="center">
+  <h4> Muhammad Rifqi Imam Saputra </h4>
+</div>
+<br>
 
 Main programming languange : 
 
@@ -15,6 +18,7 @@ Main programming languange :
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 <br>
+
 Framework : 
 
 [![SYMFONY](https://img.shields.io/badge/-SYMFONY-black?style=flat&logo=symfony&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
