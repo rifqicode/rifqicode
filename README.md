@@ -1,4 +1,4 @@
-### Hi !! 👋
+### Hi There !! 👋
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rifqicode&show_icons=true&theme=dracula" alt="rifqicode Github Stats">
@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <h4> Muhammad Rifqi Imam Saputra </h4>
+  <h2> Muhammad Rifqi Imam Saputra </h2>
 </div>
 <br>
 
