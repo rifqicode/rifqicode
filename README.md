@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="left">
   <h2> Main programming languange </h2>
   
   [![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
@@ -21,7 +21,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="left">
   <h2> Framework </h2>
   
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
@@ -39,7 +39,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="left">
   <h2> I'm also experience with </h2>
   
   [![SYMFONY](https://img.shields.io/badge/-SYMFONY-black?style=flat&logo=symfony&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
