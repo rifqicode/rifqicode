@@ -13,6 +13,9 @@
 <div align="left">
   <h2> Main programming languange </h2>
   
+  [![SYMFONY](https://img.shields.io/badge/-SYMFONY-black?style=flat&logo=symfony&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
+  [![LARAVEL](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
+  <br>
   [![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
@@ -22,8 +25,9 @@
 <br>
 
 <div align="left">
-  <h2> Framework </h2>
+  <h2> I'm also experience with </h2>
   
+  [![NODEJS](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
@@ -36,14 +40,5 @@
   [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/rifqicode)](https://github.com/rifqicode)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/rifqicode)](https://gitlab.com/rifqicode)
-</div>
-<br>
-
-<div align="left">
-  <h2> I'm also experience with </h2>
-  
-  [![SYMFONY](https://img.shields.io/badge/-SYMFONY-black?style=flat&logo=symfony&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
-  [![LARAVEL](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
-  [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 </div>
 
