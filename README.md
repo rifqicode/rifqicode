@@ -10,22 +10,22 @@
 </div>
 <br>
 
-<h2> 👨‍💻 Languages and Tools </h2>
+<h2> 👨‍💻 Main Languages and Tools </h2>
 
 [![SYMFONY](https://img.shields.io/badge/-SYMFONY-black?style=flat&logo=symfony&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![LARAVEL](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/rifqicode)](https://github.com/rifqicode)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&link=https://github.com/rifqicode)](https://github.com/rifqicode)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/rifqicode)](https://github.com/rifqicode)
+[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
+
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/rifqicode)](https://github.com/rifqicode)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&link=https://github.com/rifqicode)](https://github.com/rifqicode)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/rifqicode)](https://github.com/rifqicode)
-
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/rifqicode)](https://github.com/rifqicode)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/rifqicode)](https://gitlab.com/rifqicode)
