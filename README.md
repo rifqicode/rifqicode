@@ -1,15 +1,5 @@
 ### Hi There !! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqicode&show_icons=true&theme=dracula" alt="rifqicode Github Stats">
-</div>
-<br>
-
-<div align="center">
-  <h2> Muhammad Rifqi Imam Saputra </h2>
-</div>
-<br>
-
 <h2> 👨‍💻 Main Languages and Tools </h2>
 
 [![SYMFONY](https://img.shields.io/badge/-SYMFONY-black?style=flat&logo=symfony&link=https://github.com/rifqicode)](https://github.com/rifqicode) 
